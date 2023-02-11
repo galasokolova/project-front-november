@@ -1,0 +1,56 @@
+body {
+    background-image: url("/img/castle.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    font: italic small-caps bold 100px/50px Georgia, serif;
+    color: aliceblue;
+}
+
+th{
+    font: italic small-caps bold 15px/10px Georgia, serif;
+}
+
+div{
+    text-decoration-color: darkred;
+}
+
+table, th, td{
+    border: 1px solid #0c0202;
+    padding: 3px;
+    background-image: linear-gradient(rgba(147, 112, 219, 0.48), rgba(100, 149, 237, 0.42), rgba(255, 255, 255, 0.44));
+    gap: 20px;
+}
+
+button{
+    background-color: rgba(36, 40, 101, 0.55);
+    color: aliceblue;
+    box-shadow: 5px 10px rgba(75, 54, 96, 0.44);
+}
+
+select{
+    font: italic small-caps 15px/15px Georgia, serif;
+    color: indigo;
+}
+
+label{
+    font: italic small-caps bold 15px/10px Georgia, serif;
+    color: indigo;
+}
+
+div{
+    font: italic small-caps bold 15px/10px Georgia, serif;
+    color: indigo;
+}
+
+h2{
+    font: italic small-caps bold 30px/10px Georgia, serif;
+    color: indigo;
+}
+
+span{
+    font: italic small-caps bold 20px/20px Georgia, serif;
+    color: indigo;
+    background-image: linear-gradient(rgba(147, 112, 219, 0.48), rgba(100, 149, 237, 0.53), rgba(255, 255, 255, 0.52));
+}
